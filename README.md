@@ -27,7 +27,6 @@ This project demonstrates how incorporating date features significantly improves
 
 - `weather_predictor.py` - Main prediction model with overfitting controls
 - `seasonal_plots.py` - Python equivalent of R's gg_season() for seasonal visualization
-- `date_analysis.py` - Comprehensive analysis of date feature importance
 - `seattle-weather.csv` - Historical weather data (2012-2015)
 - `weather_model.pkl` - Trained model for predictions
 
